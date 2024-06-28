@@ -14,3 +14,8 @@ cd Cache-cleaner
 ## USAGE
 
 TO RUN THIS TOOL SIMPLY TYPE `sudo bash c-cleaner.sh` 
+
+# Created by
+INDIAN CYBER ARMY
+
+YT CHANNEL: https://www.youtube.com/@indiancyberarmy5
