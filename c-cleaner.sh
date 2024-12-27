@@ -1,4 +1,4 @@
-# bin/bash
+# !/bin/bash
 echo CLEARING ENTIRE RAM
 echo INCREASING FPS
 echo REMOVING CACHES
