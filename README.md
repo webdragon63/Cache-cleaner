@@ -18,7 +18,8 @@ TO RUN THIS TOOL SIMPLY RUN `sudo bash c-cleaner.sh` COMMAND ON YOUR TERMINAL
 
 OR IF YOU WANT TO INSTALL THIS TOOL PERMANENTLY ON YOUR SYSTEM. THEN SIMPLY RUN `sudo bash install.sh` COMMAND ON YOUR TERMINAL. AFTER THE INSTALLATION, THERE'S GOOD TO GO WITH A `sudo clean` COMMAND.
 
-![Screenshot at 2025-05-01 23-19-55](https://github.com/user-attachments/assets/2dc426ce-299f-4a38-8de7-ae3af6d88124)
+![ff](https://github.com/user-attachments/assets/adef1dff-6f59-4639-a57b-b22b5f4b1a40)
+
 
 # Created by
 INDIAN CYBER ARMY
