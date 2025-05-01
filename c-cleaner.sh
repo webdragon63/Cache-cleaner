@@ -2,8 +2,9 @@
 if [[ $(id -u) -ne 0 ]] ; then 
    echo "You are Not Root! Please Run as root" ; exit 1 ; 
 fi
+CYAN="\e[96m"
 
-
+echo -e  "${CYAN}"
 echo CLEARING ENTIRE RAM
 echo INCREASING FPS
 echo REMOVING CACHES
