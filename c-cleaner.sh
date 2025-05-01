@@ -1,4 +1,9 @@
-# !/bin/bash
+#!/bin/bash
+if [[ $(id -u) -ne 0 ]] ; then 
+   echo "You are Not Root! Please Run as root" ; exit 1 ; 
+fi
+
+
 echo CLEARING ENTIRE RAM
 echo INCREASING FPS
 echo REMOVING CACHES
