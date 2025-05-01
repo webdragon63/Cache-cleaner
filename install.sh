@@ -18,4 +18,4 @@ chmod 777 /usr/local/bin/c-cleaner.sh
 chmod 777 /usr/bin/c-cleaner.sh
 sleep 1
 echo -e "${GREEN}Tool has been installed successfully ..."
-echo -e "${GREEN}Run ${WHITE}clean ${GREEN}on your root terminal to clean your cache."
+echo -e "${GREEN}Run ${WHITE}sudo clean ${GREEN}on your root terminal to clean your cache."
