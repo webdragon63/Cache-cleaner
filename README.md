@@ -1,6 +1,7 @@
 # About this tool
 ![ddd](https://github.com/user-attachments/assets/376bd301-8daf-4614-8cf8-6a89deffc3c4)
-This tool can allow to clear your cache to run your linux much smoother than before.
+### 📄 Description:
+This Bash script is a manual cache-clearing tool designed for Linux systems. It aims to free up RAM by flushing the system caches, which may help in resetting memory usage during performance testing or when troubleshooting RAM issues.
 # Tool preview
 ![ezgif-6-1e435a1291](https://github.com/webdragon63/Cache-cleaner/assets/117004849/7ced0102-b224-4631-8c0b-1917d7afb3a0)
 
