@@ -9,7 +9,6 @@ if [[ $(id -u) -ne 0 ]] ; then
    echo -e "${CYAN}You are Not Root! Please Run as root" ; exit 1 ; 
 fi
 
-# Cyberpunk Styled Output
 echo -e "${CYAN}${ITALIC}${BOLD}CLEARING ENTIRE RAM${RESET}"
 echo -e "${CYAN}${ITALIC}${BOLD}INCREASING FPS${RESET}"
 echo -e "${CYAN}${ITALIC}${BOLD}REMOVING CACHES${RESET}"
